@@ -1,5 +1,6 @@
 
-# 💫 About Me:
+# ❄️ About Me:
+![alt text](https://github.com/revv-tech/ReadMeGithub/blob/master]/sunset.jpg?raw=true)
 <p align="center">
 Hi! 
 I hope your having a great day!<br>My name is Marco Reveiz. I’m a student on my last semester of Computer Engineering at the prestigious Technological Institute of Costa Rica (TEC). I have always been fascinated with research, software, and the science behind technology. Since the beginning of my career, I understood that learning and acquiring knowledge is an equivalent to growth but also that true growth implies discipline, perseverance, dedication and humility. My motivation is to become a successful professional, forge myself a career built on day to day learning and always have a teamwork oriented mindset but most of all be a good person.
