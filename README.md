@@ -6,7 +6,7 @@ I hope your having a great day!<br>My name is Marco Reveiz. I’m a student on m
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marco-reveiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marco-reveiz/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marco-reveiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marco-reveiz/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mreveiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mreveiz" height="30" width="40" /></a>
 <a href="https://instagram.com/revvro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="revvro" height="30" width="40" /></a>
 <a href="https://discord.gg/revvro#9709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="revvro#9709" height="30" width="40" /></a>
