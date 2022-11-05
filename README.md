@@ -4,7 +4,6 @@
 Hi! 
 I hope your having a great day!<br>My name is Marco Reveiz. I’m a student on my last semester of Computer Engineering at the prestigious Technological Institute of Costa Rica (TEC). I have always been fascinated with research, software, and the science behind technology. Since the beginning of my career, I understood that learning and acquiring knowledge is an equivalent to growth but also that true growth implies discipline, perseverance, dedication and humility. My motivation is to become a successful professional, forge myself a career built on day to day learning and always have a teamwork oriented mindset but most of all be a good person.
 </p>
-<h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/marco-reveiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marco-reveiz/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mreveiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mreveiz" height="30" width="40" /></a>
