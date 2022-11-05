@@ -1,7 +1,8 @@
 
 # 💫 About Me:
 <p align="center">
-Hi! I hope your having a great day!<br>My name is Marco Reveiz. I’m a student on my last semester of Computer Engineering at the prestigious Technological Institute of Costa Rica (TEC). I have always been fascinated with research, software, and the science behind technology. Since the beginning of my career, I understood that learning and acquiring knowledge is an equivalent to growth but also that true growth implies discipline, perseverance, dedication and humility. My motivation is to become a successful professional, forge myself a career built on day to day learning and always have a teamwork oriented mindset but most of all be a good person.
+Hi! 
+I hope your having a great day!<br>My name is Marco Reveiz. I’m a student on my last semester of Computer Engineering at the prestigious Technological Institute of Costa Rica (TEC). I have always been fascinated with research, software, and the science behind technology. Since the beginning of my career, I understood that learning and acquiring knowledge is an equivalent to growth but also that true growth implies discipline, perseverance, dedication and humility. My motivation is to become a successful professional, forge myself a career built on day to day learning and always have a teamwork oriented mindset but most of all be a good person.
 </p>
 
 ### ✍️ Here's a random developer quote for you to have:
@@ -12,7 +13,10 @@ Hi! I hope your having a great day!<br>My name is Marco Reveiz. I’m a student 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/revvro#9709) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/revvro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marco-reveiz/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mreveiz) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=revv-tech&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=revv-tech&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=revv-tech&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
