@@ -18,11 +18,6 @@ I hope your having a great day!<br>My name is Marco Reveiz. I’m a student on m
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=revv-tech&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=revv-tech&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=revv-tech&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=revv-tech&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
