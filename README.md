@@ -18,11 +18,6 @@ I hope your having a great day!<br>My name is Marco Reveiz. I’m a student on m
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=revv-tech&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-
-
 ### ✍️ Here's a random developer quote for you to have:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
